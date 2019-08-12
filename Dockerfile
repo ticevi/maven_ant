@@ -6,7 +6,7 @@ FROM maven:3.6.1-jdk-8
 
 # Preparation
 
-ENV ANT_VERSION 1.9.5
+ENV ANT_VERSION 1.10.5
 ENV ANT_HOME /etc/ant-${ANT_VERSION}
 
 # Installation
